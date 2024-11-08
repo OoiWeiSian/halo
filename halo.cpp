@@ -6,4 +6,6 @@ int main(){
   return 0;
 
   cout << "Hihi" << endl;
+
+  cout << "Byebye" << endl;
 }
